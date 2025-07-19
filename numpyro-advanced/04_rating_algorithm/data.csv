@@ -1,0 +1,16 @@
+team_a,team_b,wins,loses
+Tigers,Giants,5,4
+Tigers,Swallows,7,1
+Tigers,Dragons,4,3
+Tigers,Carp,5,2
+Tigers,DeNA,7,2
+Giants,Swallows,4,2
+Giants,Dragons,5,4
+Giants,Carp,5,5
+Giants,DeNA,5,0
+Swallows,Dragons,5,1
+Swallows,Carp,4,1
+Swallows,DeNA,8,3
+Dragons,Carp,3,4
+Dragons,DeNA,5,4
+Carp,DeNA,4,3
